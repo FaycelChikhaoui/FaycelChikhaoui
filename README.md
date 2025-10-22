@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Faycel Chikhaoui.</p>
+<h1 align="left">My name is Faycel Chikhaoui.</h1>
 
 ###
 
