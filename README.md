@@ -2,14 +2,14 @@
 
 ###
 
-<h1 align="left">My name is Faycel Chikhaoui.</h1>
+<h3 align="left">My name is <h1>Faycel Chikhaoui</h1>.</h1>
 
 ###
 
 <br clear="both">
 
 <h2 align="left">About me</h2>
-<h2 align="left">Full-stack JS/TS Developer with 3 years of professional experience. <br>Core competencies include NestJS, Prisma, PostgreSQL, VueJS, TailwindCSS, and TypeScript. <br>Applies advanced development principles such as SOLID, TDD, DDD, and Hexagonal Architecture to ensure application quality and scalability.</h2>
+<h2 align="left">Experienced Full-stack JS/TS Developer. <br>Core competencies include NestJS, Prisma, PostgreSQL, VueJS, TailwindCSS, and TypeScript. <br>Applies advanced development principles such as SOLID, TDD, DDD, and Hexagonal Architecture to ensure application quality and scalability.</h2>
 
 ###
 
