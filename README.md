@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is <span style="font-size=32px; font-style=bold;">Faycel Chikhaoui</span></h3>
+<h3 align="left">My name is <h1>Faycel Chikhaoui</h1></h3>
 
 ###
 
